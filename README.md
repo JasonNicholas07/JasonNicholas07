@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 - 📚 Studying on [**BINUS University**](https://binus.ac.id/)
 - 🌱 Currently learning C Program
 - 📫 Social Media                  
-[![Linkedin Badge](https://img.shields.io/badge/-Jason-0a66c2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jason-nicholas-winata/)](https://www.linkedin.com/in/jason-nicholas-winata/)
+[![Linkedin Badge](https://img.shields.io/badge/-Jason-0a66c2?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jason-nicholas-winata/)](https://www.linkedin.com/in/jason-nicholas-winata/)
 [![Gmail Badge](https://img.shields.io/badge/-jasonoey07-c71610?style=flat&logo=Gmail&logoColor=white&link=mailto:jasonoey07@gmail.com)](mailto:jasonoey07@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@_jasonnw-C13584?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jasonnw/)](https://instagram.com/_jasonnw)
+[![Twitter Badge](https://img.shields.io/badge/-@jasonoey07-black?style=flat&labelColor=black&logo=X&logoColor=white&link=https://x.com/jasonoey07?t=y-F65sPxqt84xkFLxYDznw&s=08 )](https://x.com/jasonoey07?t=y-F65sPxqt84xkFLxYDznw&s=08 )
 
 </br>
 
