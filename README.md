@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2> Hi there 👋 </h2>
 
 <!--
 **JasonNicholas07/JasonNicholas07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![benny_gif]((https://gifer.com/en/YQpB))
+
+
+![YQpB](https://github.com/user-attachments/assets/cbacaf0d-eb9c-422e-a5b2-a8d6c5a5483b)
+</br>
+- 📫 How to reach me:
+  - Email✉   : jasonoey07@gmail.com
+  - IG📸     : _jasonnw
