@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img align="right" width="370" height="250" src="https://github.com/user-attachments/assets/cbacaf0d-eb9c-422e-a5b2-a8d6c5a5483b">
 
 - 📚 Studying at [**BINUS University**](https://binus.ac.id/)
-- 🌱 Currently learning C Program
+- 🌱 Currently learning 
 - 📫 Social Media                  
 [![Linkedin Badge](https://img.shields.io/badge/-Jason-0a66c2?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jason-nicholas-winata/)](https://www.linkedin.com/in/jason-nicholas-winata/)
 [![Gmail Badge](https://img.shields.io/badge/-jasonoey07-c71610?style=flat&logo=Gmail&logoColor=white&link=mailto:jasonoey07@gmail.com)](mailto:jasonoey07@gmail.com)
