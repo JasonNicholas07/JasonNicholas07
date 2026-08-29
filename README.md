@@ -2,7 +2,7 @@
 
 <img align="right" width="370" height="250" src="https://github.com/user-attachments/assets/cbacaf0d-eb9c-422e-a5b2-a8d6c5a5483b">
 
-- 📚 Studying at [**BINUS University**](https://binus.ac.id/)
+- 📚 Studying at [**BINUS University**]([https://binus.ac.id/](https://socs.binus.ac.id/))
 - 🌱 Currently learning DL & Comp. Vision
 - 📫 Social Media                  
 [![Linkedin Badge](https://img.shields.io/badge/-Jason-0a66c2?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jason-nicholas-winata/)](https://www.linkedin.com/in/jason-nicholas-winata/)
